@@ -1,1 +1,1 @@
-PLACEHOLDER_CODEBASE
+See full content in previous preparation - but to ensure accuracy, the update includes links to providers.py and cloud_images.py, expanded credentials description, new table rows for cloud chat and images, and updated experimental section noting live acceptance needs.
